@@ -1,0 +1,18 @@
+{
+ "id": "horizon-left-rail-azure-teal",
+ "description": "SAP Agents part 2 (2026-10-18): bright SAP Horizon-style look. 1920x1080 with a left azure-to-violet rail holding stacked SAP / Agents chips and a vertical stepper; near-white canvas with a faint azure dot matrix; teal highlight (not gold); FreeSans + FreeMono; items slide in from the left; scenes change with a vertical wipe and a teal edge; indigo lower-third captions with a teal tick. Split white/azure banner with a live 8.8 vs 9.1 mismatch teaser; split-panel founder end card. Voice Schedar.",
+ "fingerprint": {
+  "aspect": ["fhd-1920x1080-left-rail-stepper"],
+  "palette_family": ["horizon-azure-indigo-violet-on-white", "teal-highlight-crimson-amber-signals"],
+  "background": ["white-canvas-azure-dot-matrix-corner", "split-white-and-azure-violet-panel-banner"],
+  "typography": ["freesans", "freemono"],
+  "camera_motion": ["slide-in-from-left-fade"],
+  "transition": ["vertical-wipe-teal-edge"],
+  "caption_style": ["indigo-lower-third-teal-tick"],
+  "progress_indicator": ["left-rail-vertical-stepper-dots"],
+  "intro_device": ["split-banner-live-mismatch-teaser"],
+  "outro_device": ["split-panel-founder-strip"],
+  "narration_voice": ["tts-schedar"],
+  "signature_motif": ["hash-chain-ribbon-with-legacy-seal", "two-number-mismatch-tiles", "seven-lifeline-reconcile-sequence", "destination-routed-ledger-architecture"]
+ }
+}

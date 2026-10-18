@@ -1,0 +1,7 @@
+__pycache__/
+preview/
+parts/
+*.mp4
+narration.wav
+ffmpeg2pass*
+*.log
